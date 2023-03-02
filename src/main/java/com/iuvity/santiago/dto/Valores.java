@@ -1,4 +1,4 @@
-package com.iuvity.hulkstore.dto;
+package com.iuvity.santiago.dto;
 
 public class Valores {
     private int cantidad;
@@ -12,6 +12,10 @@ public class Valores {
         this.cantidad = cantidad;
         this.valorUnitario = valorUnitario;
         this.total = total;
+    }
+    public Valores(int cantidad, int valorUnitario) {
+        this.cantidad = cantidad;
+        this.valorUnitario = valorUnitario;
     }
 
     public int getCantidad() {

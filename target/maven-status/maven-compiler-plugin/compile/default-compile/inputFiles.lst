@@ -1,0 +1,9 @@
+/Users/gabrielsantiagoagudeloramirez/Downloads/santiago/src/main/java/com/quipu/santiago/service/PlayListService.java
+/Users/gabrielsantiagoagudeloramirez/Downloads/santiago/src/main/java/com/quipu/santiago/controller/PlayListController.java
+/Users/gabrielsantiagoagudeloramirez/Downloads/santiago/src/main/java/com/quipu/santiago/QuipuxChallengeApplication.java
+/Users/gabrielsantiagoagudeloramirez/Downloads/santiago/src/main/java/com/quipu/santiago/dto/Cancion.java
+/Users/gabrielsantiagoagudeloramirez/Downloads/santiago/src/main/java/com/quipu/santiago/config/JpaConfig.java
+/Users/gabrielsantiagoagudeloramirez/Downloads/santiago/src/main/java/com/quipu/santiago/repository/PlaylistRepository.java
+/Users/gabrielsantiagoagudeloramirez/Downloads/santiago/src/main/java/com/quipu/santiago/entity/PlayList.java
+/Users/gabrielsantiagoagudeloramirez/Downloads/santiago/src/main/java/com/quipu/santiago/service/impl/PlayListServiceImplementation.java
+/Users/gabrielsantiagoagudeloramirez/Downloads/santiago/src/main/java/com/quipu/santiago/security/WebSecurityConfig.java
