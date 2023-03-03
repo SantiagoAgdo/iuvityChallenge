@@ -13,7 +13,7 @@ Open in IDE preference
 
 And Run Project
 
-Ejecucion en 
+Execution in
 
 `localhost:8080`
 
