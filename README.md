@@ -22,7 +22,5 @@ Database in memory H2
 Api REST End Points
 
 > http://localhost:8080/kardex/verLista
--
-> http://localhost:8080/kardex/addProduct
--
+*
 > http://localhost:8080/kardex/addProduct
